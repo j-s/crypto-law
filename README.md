@@ -1,4 +1,4 @@
-# Horyzon Law
+# Crypto Law
 Exploring cryptoequities, app coins and ICOs in the context of Australian securities law
 
 ## Revised project outline:
